@@ -1,2 +1,2 @@
-# jane_street
-Quantitative Analysis for Financial Data 
+# jane street
+This is a practice solution in response to the Jane Street Competition
